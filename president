@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>James Marches - President | Ownership Exchange</title>
+    <style>
+        /* Styles here are as described in the previous message */
+    </style>
+</head>
+
+<body>
+    <header>
+        <h1>James Marches - President</h1>
+        <p>Leading Redwood Homeowners Association and Ownership Exchange</p>
+    </header>
+
+    <div class="container">
+        <section class="entity-card">
+            <h2>Credentials & Bio</h2>
+            <p><strong>Credentials:</strong> President, Redwood Homeowners Association</p>
+            <p>James Marches is a dedicated professional with a focus on supporting homeowners in their timeshare transactions. He collaborates closely with Ownership Exchange to ensure smooth transitions.</p>
+        </section>
+
+        <section class="entity-card">
+            <h2>Mission Statement</h2>
+            <p>James’ mission is to support homeowners in their ownership journey, ensuring they have the resources and guidance needed to transfer ownership successfully and smoothly.</p>
+        </section>
+
+        <section class="entity-card contact-info">
+            <h2>Contact Information</h2>
+            <p><strong>Address:</strong> Cheyenne, Wyoming</p>
+            <p><strong>Phone:</strong> <a href="tel:+13073957870">307-395-7870</a></p>
+            <p><strong>Email:</strong> <a href="mailto:james@ownershipexchange.com">james@ownershipexchange.com</a></p>
+        </section>
+
+        <a href="mailto:james@ownershipexchange.com" class="cta-button">Contact James Marches</a>
+    </div>
+
+    <footer>
+        <p>&copy; 2026 Ownership Exchange. All Rights Reserved.</p>
+    </footer>
+</body>
+
+</html>
